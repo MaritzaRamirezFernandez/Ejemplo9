@@ -16,6 +16,8 @@ public class Ejemplo10 {
      */
     public static void main(String[] args) {
         System.out.println("Hernando Enrique Moreno Moreno");
+        
+        System.out.println("Maritza Ramirez");
     }
     
 }
